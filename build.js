@@ -137,6 +137,9 @@ function shell({ title, desc, body }) {
     '@context': 'https://schema.org', '@type': 'Person', name: 'Nilabh Yadav',
     url: BASE + '/', jobTitle: 'Robotics and AI engineer (student)',
     sameAs: ['https://github.com/Nilabh-code',
+             'https://x.com/Nilabh_Real',
+             'https://www.youtube.com/@AGENTICCODEE',
+             'https://huggingface.co/Nilabhh',
              'https://www.youtube.com/@NilabhTechForge',
              'https://nilabh-code.github.io/robot-atlas/'],
   })}</script>
@@ -241,7 +244,10 @@ function shell({ title, desc, body }) {
       </div>
       <ul class="link-list">
         <li><a href="https://github.com/Nilabh-code" target="_blank" rel="noopener"><span>GitHub — Nilabh-code</span><span class="lm">all the code</span></a></li>
-        <li><a href="https://www.youtube.com/@NilabhTechForge" target="_blank" rel="noopener"><span>YouTube — Nilabh's Tech Forge</span><span class="lm">tutorials</span></a></li>
+        <li><a href="https://x.com/Nilabh_Real" target="_blank" rel="noopener"><span>X — @Nilabh_Real</span><span class="lm">daily notes</span></a></li>
+        <li><a href="https://www.youtube.com/@AGENTICCODEE" target="_blank" rel="noopener"><span>YouTube — AGENTIC CODE</span><span class="lm">tutorials</span></a></li>
+        <li><a href="https://huggingface.co/Nilabhh" target="_blank" rel="noopener"><span>Hugging Face — Nilabhh</span><span class="lm">models</span></a></li>
+        <li><a href="https://www.youtube.com/@NilabhTechForge" target="_blank" rel="noopener"><span>YouTube — Nilabh's Tech Forge</span><span class="lm">archive</span></a></li>
         <li><a href="https://nilabh-code.github.io/robot-atlas/" target="_blank" rel="noopener"><span>Robot Atlas</span><span class="lm">field guide</span></a></li>
         <li><a href="https://nilabh-code.github.io/calcforge/" target="_blank" rel="noopener"><span>CalcForge</span><span class="lm">calculators</span></a></li>
       </ul>
